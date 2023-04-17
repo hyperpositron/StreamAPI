@@ -1,13 +1,13 @@
-package pro.sky.streamapi;
+package pro.sky.departments;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StreamApiApplication {
+public class DepartmentsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(StreamApiApplication.class, args);
+        SpringApplication.run(DepartmentsApplication.class, args);
     }
 
 }
